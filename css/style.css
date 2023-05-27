@@ -6,7 +6,7 @@
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
 @import url('http://fonts.googleapis.com/css?family=Roboto:400,900italic,900,700italic,700,500italic,500,400italic,300italic,300,100italic,100');
 @import url('http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800');
-
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@400&display=swap');
 /*++++++++++++++++++++++++++++++++++++++++++++++++++++++
 	RESET
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
@@ -48,11 +48,11 @@ body {
 h1 strong{
 	font-weight: 900;
 }
-h2{
-	;
+h2 {
 	line-height: 20px;
 	margin:  0;
 }
+
 h3{
 font-size: 1.2em;
 font-weight: 900;
@@ -63,9 +63,10 @@ h5{
 	font-weight: 700;
 	line-height: 20px;
 }
+
 p{
-font-family: 'Open Sans', sans-serif;
-font-size:0.93em;
+    font-family: 'Open Sans', sans-serif;
+    font-size:0.93em;
 }
 
 
@@ -713,7 +714,7 @@ p.lead
  .project-preview .preview p{
     line-height: 1.5;
     font-size: 1.6rem;
-    color:#777;
+    color:#222020;
     /* padding-right: 15px;
     padding-left: 15px; */
     text-align: center;
