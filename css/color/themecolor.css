@@ -1,11 +1,4 @@
 
-/*
-++++++++++++++++++++++++++++++++++++++++++++++++++++++
-AUTHOR : Vijayan PP
-PROJECT :Nim
-VERSION : 1.1
-++++++++++++++++++++++++++++++++++++++++++++++++++++++
-*/
 
 .themecolor
 {
@@ -35,13 +28,13 @@ color:#117d8b;
     border-top-color:#117d8b;
 }
 
-.work-desc
+.project-title
 {
-    background:#117d8b;
+    background:#D3D3D3;
 }
-.work-desc h3
+.project-title h3
 {
-    color:#fff;
+    color:#117d8b;
 }
 
 
