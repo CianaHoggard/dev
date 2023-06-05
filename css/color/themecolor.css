@@ -3,6 +3,7 @@
 .themecolor
 {
     color:#117d8b;/*Defines the theme color*/
+    word-break: break-all;
 }
 
 .theme_background_color,#downloadbt:hover
