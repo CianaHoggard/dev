@@ -69,7 +69,7 @@ VERSION : 1.1
        $(window).scroll(function()
        {
        var top_v=$(window).scrollTop();
-       var themecolor="#117d8b";
+       var themecolor="#0e9787";
       if(top_v>=30)
       {
 
